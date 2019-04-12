@@ -8,49 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		13A07E8E2260A8AB008BF595 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07E8D2260A8AB008BF595 /* main.swift */; };
-		13A07E9E2260A902008BF595 /* Swift005_ProtocolsAndExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07E972260A902008BF595 /* Swift005_ProtocolsAndExtensions.swift */; };
-		13A07E9F2260A902008BF595 /* Swift001_SimpleValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07E982260A902008BF595 /* Swift001_SimpleValues.swift */; };
-		13A07EA02260A902008BF595 /* Swift006_ErrorHanding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07E992260A902008BF595 /* Swift006_ErrorHanding.swift */; };
-		13A07EA12260A902008BF595 /* Swift003_ObjectsAndClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07E9A2260A902008BF595 /* Swift003_ObjectsAndClasses.swift */; };
-		13A07EA22260A902008BF595 /* Swift007_Generics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07E9B2260A902008BF595 /* Swift007_Generics.swift */; };
-		13A07EA32260A902008BF595 /* Swift004_EunmsAndStructures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07E9C2260A902008BF595 /* Swift004_EunmsAndStructures.swift */; };
-		13A07EA42260A902008BF595 /* Swift002_FunctionAndClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07E9D2260A902008BF595 /* Swift002_FunctionAndClosures.swift */; };
-		13A07EBF2260A919008BF595 /* Swift10_Properties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EA52260A918008BF595 /* Swift10_Properties.swift */; };
-		13A07EC02260A919008BF595 /* Swift01_Basics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EA62260A918008BF595 /* Swift01_Basics.swift */; };
-		13A07EC12260A919008BF595 /* Swift26_AdvancedOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EA72260A918008BF595 /* Swift26_AdvancedOperators.swift */; };
-		13A07EC22260A919008BF595 /* Swift07_Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EA82260A918008BF595 /* Swift07_Closures.swift */; };
-		13A07EC32260A919008BF595 /* Swift13_Inheritance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EA92260A918008BF595 /* Swift13_Inheritance.swift */; };
-		13A07EC42260A919008BF595 /* Swift17_ErrorHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EAA2260A918008BF595 /* Swift17_ErrorHandling.swift */; };
-		13A07EC52260A919008BF595 /* Swift21_Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EAB2260A918008BF595 /* Swift21_Protocols.swift */; };
-		13A07EC62260A919008BF595 /* Swift12_Subscripts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EAC2260A918008BF595 /* Swift12_Subscripts.swift */; };
-		13A07EC72260A919008BF595 /* Swift09_ClassesAndStrucures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EAD2260A918008BF595 /* Swift09_ClassesAndStrucures.swift */; };
-		13A07EC82260A919008BF595 /* Swift14_Initalization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EAE2260A918008BF595 /* Swift14_Initalization.swift */; };
-		13A07EC92260A919008BF595 /* Swift20_Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EAF2260A918008BF595 /* Swift20_Extensions.swift */; };
-		13A07ECA2260A919008BF595 /* Swift02_BasicOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB02260A918008BF595 /* Swift02_BasicOperators.swift */; };
-		13A07ECB2260A919008BF595 /* Swift24_MemorySafety.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB12260A918008BF595 /* Swift24_MemorySafety.swift */; };
-		13A07ECC2260A919008BF595 /* Swift22_Generics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB22260A918008BF595 /* Swift22_Generics.swift */; };
-		13A07ECD2260A919008BF595 /* Swift08_Enumerations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB32260A919008BF595 /* Swift08_Enumerations.swift */; };
-		13A07ECE2260A919008BF595 /* Swift06_Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB42260A919008BF595 /* Swift06_Functions.swift */; };
-		13A07ECF2260A919008BF595 /* Swift11_Methods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB52260A919008BF595 /* Swift11_Methods.swift */; };
-		13A07ED02260A919008BF595 /* Swift15_Deinitialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB62260A919008BF595 /* Swift15_Deinitialization.swift */; };
-		13A07ED12260A919008BF595 /* Swift23_AutomaticReferenceCounting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB72260A919008BF595 /* Swift23_AutomaticReferenceCounting.swift */; };
-		13A07ED22260A919008BF595 /* Swift16_OptionalChaining.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB82260A919008BF595 /* Swift16_OptionalChaining.swift */; };
-		13A07ED32260A919008BF595 /* Siwft03_StringsAndCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EB92260A919008BF595 /* Siwft03_StringsAndCharacters.swift */; };
-		13A07ED42260A919008BF595 /* Swift05_ControlFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EBA2260A919008BF595 /* Swift05_ControlFlow.swift */; };
-		13A07ED52260A919008BF595 /* Swift25_AccessControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EBB2260A919008BF595 /* Swift25_AccessControl.swift */; };
-		13A07ED62260A919008BF595 /* Swift18_TypeCasting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EBC2260A919008BF595 /* Swift18_TypeCasting.swift */; };
-		13A07ED72260A919008BF595 /* Swift04_CollectionTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EBD2260A919008BF595 /* Swift04_CollectionTypes.swift */; };
-		13A07ED82260A919008BF595 /* Swift19_NestedTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EBE2260A919008BF595 /* Swift19_NestedTypes.swift */; };
-		13A07EE32260A92C008BF595 /* Swift02_LexicalStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07ED92260A92C008BF595 /* Swift02_LexicalStructure.swift */; };
-		13A07EE42260A92C008BF595 /* Swift08_Patterns.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EDA2260A92C008BF595 /* Swift08_Patterns.swift */; };
-		13A07EE52260A92C008BF595 /* Swift01_About.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EDB2260A92C008BF595 /* Swift01_About.swift */; };
-		13A07EE62260A92C008BF595 /* Swift05_Statements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EDC2260A92C008BF595 /* Swift05_Statements.swift */; };
-		13A07EE72260A92C008BF595 /* Swift06_Declarations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EDD2260A92C008BF595 /* Swift06_Declarations.swift */; };
-		13A07EE82260A92C008BF595 /* Swift04_Exressions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EDE2260A92C008BF595 /* Swift04_Exressions.swift */; };
-		13A07EE92260A92C008BF595 /* Swift09_GenericParametersAndArguments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EDF2260A92C008BF595 /* Swift09_GenericParametersAndArguments.swift */; };
-		13A07EEA2260A92C008BF595 /* Swift03_Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EE02260A92C008BF595 /* Swift03_Types.swift */; };
-		13A07EEB2260A92C008BF595 /* Swift07_Attributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EE12260A92C008BF595 /* Swift07_Attributes.swift */; };
-		13A07EEC2260A92C008BF595 /* Swift10_SummaryOfGrammar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EE22260A92C008BF595 /* Swift10_SummaryOfGrammar.swift */; };
+		13A07EF42260ABCD008BF595 /* Swift001_SimpleValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EED2260ABCC008BF595 /* Swift001_SimpleValues.swift */; };
+		13A07EF52260ABCD008BF595 /* Swift004_EunmsAndStructures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EEE2260ABCD008BF595 /* Swift004_EunmsAndStructures.swift */; };
+		13A07EF62260ABCD008BF595 /* Swift006_ErrorHanding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EEF2260ABCD008BF595 /* Swift006_ErrorHanding.swift */; };
+		13A07EF72260ABCD008BF595 /* Swift003_ObjectsAndClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EF02260ABCD008BF595 /* Swift003_ObjectsAndClasses.swift */; };
+		13A07EF82260ABCD008BF595 /* Swift007_Generics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EF12260ABCD008BF595 /* Swift007_Generics.swift */; };
+		13A07EF92260ABCD008BF595 /* Swift005_ProtocolsAndExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EF22260ABCD008BF595 /* Swift005_ProtocolsAndExtensions.swift */; };
+		13A07EFA2260ABCD008BF595 /* Swift002_FunctionAndClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A07EF32260ABCD008BF595 /* Swift002_FunctionAndClosures.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -68,49 +32,13 @@
 /* Begin PBXFileReference section */
 		13A07E8A2260A8AB008BF595 /* SwiftStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		13A07E8D2260A8AB008BF595 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		13A07E972260A902008BF595 /* Swift005_ProtocolsAndExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift005_ProtocolsAndExtensions.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift005_ProtocolsAndExtensions.swift; sourceTree = "<group>"; };
-		13A07E982260A902008BF595 /* Swift001_SimpleValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift001_SimpleValues.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift001_SimpleValues.swift; sourceTree = "<group>"; };
-		13A07E992260A902008BF595 /* Swift006_ErrorHanding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift006_ErrorHanding.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift006_ErrorHanding.swift; sourceTree = "<group>"; };
-		13A07E9A2260A902008BF595 /* Swift003_ObjectsAndClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift003_ObjectsAndClasses.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift003_ObjectsAndClasses.swift; sourceTree = "<group>"; };
-		13A07E9B2260A902008BF595 /* Swift007_Generics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift007_Generics.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift007_Generics.swift; sourceTree = "<group>"; };
-		13A07E9C2260A902008BF595 /* Swift004_EunmsAndStructures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift004_EunmsAndStructures.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift004_EunmsAndStructures.swift; sourceTree = "<group>"; };
-		13A07E9D2260A902008BF595 /* Swift002_FunctionAndClosures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift002_FunctionAndClosures.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift002_FunctionAndClosures.swift; sourceTree = "<group>"; };
-		13A07EA52260A918008BF595 /* Swift10_Properties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift10_Properties.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift10_Properties.swift; sourceTree = "<group>"; };
-		13A07EA62260A918008BF595 /* Swift01_Basics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift01_Basics.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift01_Basics.swift; sourceTree = "<group>"; };
-		13A07EA72260A918008BF595 /* Swift26_AdvancedOperators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift26_AdvancedOperators.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift26_AdvancedOperators.swift; sourceTree = "<group>"; };
-		13A07EA82260A918008BF595 /* Swift07_Closures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift07_Closures.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift07_Closures.swift; sourceTree = "<group>"; };
-		13A07EA92260A918008BF595 /* Swift13_Inheritance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift13_Inheritance.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift13_Inheritance.swift; sourceTree = "<group>"; };
-		13A07EAA2260A918008BF595 /* Swift17_ErrorHandling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift17_ErrorHandling.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift17_ErrorHandling.swift; sourceTree = "<group>"; };
-		13A07EAB2260A918008BF595 /* Swift21_Protocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift21_Protocols.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift21_Protocols.swift; sourceTree = "<group>"; };
-		13A07EAC2260A918008BF595 /* Swift12_Subscripts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift12_Subscripts.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift12_Subscripts.swift; sourceTree = "<group>"; };
-		13A07EAD2260A918008BF595 /* Swift09_ClassesAndStrucures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift09_ClassesAndStrucures.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift09_ClassesAndStrucures.swift; sourceTree = "<group>"; };
-		13A07EAE2260A918008BF595 /* Swift14_Initalization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift14_Initalization.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift14_Initalization.swift; sourceTree = "<group>"; };
-		13A07EAF2260A918008BF595 /* Swift20_Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift20_Extensions.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift20_Extensions.swift; sourceTree = "<group>"; };
-		13A07EB02260A918008BF595 /* Swift02_BasicOperators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift02_BasicOperators.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift02_BasicOperators.swift; sourceTree = "<group>"; };
-		13A07EB12260A918008BF595 /* Swift24_MemorySafety.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift24_MemorySafety.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift24_MemorySafety.swift; sourceTree = "<group>"; };
-		13A07EB22260A918008BF595 /* Swift22_Generics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift22_Generics.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift22_Generics.swift; sourceTree = "<group>"; };
-		13A07EB32260A919008BF595 /* Swift08_Enumerations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift08_Enumerations.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift08_Enumerations.swift; sourceTree = "<group>"; };
-		13A07EB42260A919008BF595 /* Swift06_Functions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift06_Functions.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift06_Functions.swift; sourceTree = "<group>"; };
-		13A07EB52260A919008BF595 /* Swift11_Methods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift11_Methods.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift11_Methods.swift; sourceTree = "<group>"; };
-		13A07EB62260A919008BF595 /* Swift15_Deinitialization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift15_Deinitialization.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift15_Deinitialization.swift; sourceTree = "<group>"; };
-		13A07EB72260A919008BF595 /* Swift23_AutomaticReferenceCounting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift23_AutomaticReferenceCounting.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift23_AutomaticReferenceCounting.swift; sourceTree = "<group>"; };
-		13A07EB82260A919008BF595 /* Swift16_OptionalChaining.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift16_OptionalChaining.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift16_OptionalChaining.swift; sourceTree = "<group>"; };
-		13A07EB92260A919008BF595 /* Siwft03_StringsAndCharacters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Siwft03_StringsAndCharacters.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Siwft03_StringsAndCharacters.swift; sourceTree = "<group>"; };
-		13A07EBA2260A919008BF595 /* Swift05_ControlFlow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift05_ControlFlow.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift05_ControlFlow.swift; sourceTree = "<group>"; };
-		13A07EBB2260A919008BF595 /* Swift25_AccessControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift25_AccessControl.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift25_AccessControl.swift; sourceTree = "<group>"; };
-		13A07EBC2260A919008BF595 /* Swift18_TypeCasting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift18_TypeCasting.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift18_TypeCasting.swift; sourceTree = "<group>"; };
-		13A07EBD2260A919008BF595 /* Swift04_CollectionTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift04_CollectionTypes.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift04_CollectionTypes.swift; sourceTree = "<group>"; };
-		13A07EBE2260A919008BF595 /* Swift19_NestedTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift19_NestedTypes.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Siwft2_LanguageGuid/Swift19_NestedTypes.swift; sourceTree = "<group>"; };
-		13A07ED92260A92C008BF595 /* Swift02_LexicalStructure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift02_LexicalStructure.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift02_LexicalStructure.swift; sourceTree = "<group>"; };
-		13A07EDA2260A92C008BF595 /* Swift08_Patterns.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift08_Patterns.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift08_Patterns.swift; sourceTree = "<group>"; };
-		13A07EDB2260A92C008BF595 /* Swift01_About.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift01_About.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift01_About.swift; sourceTree = "<group>"; };
-		13A07EDC2260A92C008BF595 /* Swift05_Statements.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift05_Statements.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift05_Statements.swift; sourceTree = "<group>"; };
-		13A07EDD2260A92C008BF595 /* Swift06_Declarations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift06_Declarations.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift06_Declarations.swift; sourceTree = "<group>"; };
-		13A07EDE2260A92C008BF595 /* Swift04_Exressions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift04_Exressions.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift04_Exressions.swift; sourceTree = "<group>"; };
-		13A07EDF2260A92C008BF595 /* Swift09_GenericParametersAndArguments.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift09_GenericParametersAndArguments.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift09_GenericParametersAndArguments.swift; sourceTree = "<group>"; };
-		13A07EE02260A92C008BF595 /* Swift03_Types.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift03_Types.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift03_Types.swift; sourceTree = "<group>"; };
-		13A07EE12260A92C008BF595 /* Swift07_Attributes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift07_Attributes.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift07_Attributes.swift; sourceTree = "<group>"; };
-		13A07EE22260A92C008BF595 /* Swift10_SummaryOfGrammar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift10_SummaryOfGrammar.swift; path = ../../../SwiftStudyEveryDay/SwiftDemo/Swift3_LanguageReference/Swift10_SummaryOfGrammar.swift; sourceTree = "<group>"; };
+		13A07EED2260ABCC008BF595 /* Swift001_SimpleValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift001_SimpleValues.swift; path = ../../../../SwiftDemo/Swift001_SimpleValues.swift; sourceTree = "<group>"; };
+		13A07EEE2260ABCD008BF595 /* Swift004_EunmsAndStructures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift004_EunmsAndStructures.swift; path = ../../../../SwiftDemo/Swift004_EunmsAndStructures.swift; sourceTree = "<group>"; };
+		13A07EEF2260ABCD008BF595 /* Swift006_ErrorHanding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift006_ErrorHanding.swift; path = ../../../../SwiftDemo/Swift006_ErrorHanding.swift; sourceTree = "<group>"; };
+		13A07EF02260ABCD008BF595 /* Swift003_ObjectsAndClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift003_ObjectsAndClasses.swift; path = ../../../../SwiftDemo/Swift003_ObjectsAndClasses.swift; sourceTree = "<group>"; };
+		13A07EF12260ABCD008BF595 /* Swift007_Generics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift007_Generics.swift; path = ../../../../SwiftDemo/Swift007_Generics.swift; sourceTree = "<group>"; };
+		13A07EF22260ABCD008BF595 /* Swift005_ProtocolsAndExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift005_ProtocolsAndExtensions.swift; path = ../../../../SwiftDemo/Swift005_ProtocolsAndExtensions.swift; sourceTree = "<group>"; };
+		13A07EF32260ABCD008BF595 /* Swift002_FunctionAndClosures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Swift002_FunctionAndClosures.swift; path = ../../../../SwiftDemo/Swift002_FunctionAndClosures.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,13 +82,13 @@
 		13A07E942260A8BA008BF595 /* Wellcome */ = {
 			isa = PBXGroup;
 			children = (
-				13A07E982260A902008BF595 /* Swift001_SimpleValues.swift */,
-				13A07E9D2260A902008BF595 /* Swift002_FunctionAndClosures.swift */,
-				13A07E9A2260A902008BF595 /* Swift003_ObjectsAndClasses.swift */,
-				13A07E9C2260A902008BF595 /* Swift004_EunmsAndStructures.swift */,
-				13A07E972260A902008BF595 /* Swift005_ProtocolsAndExtensions.swift */,
-				13A07E992260A902008BF595 /* Swift006_ErrorHanding.swift */,
-				13A07E9B2260A902008BF595 /* Swift007_Generics.swift */,
+				13A07EED2260ABCC008BF595 /* Swift001_SimpleValues.swift */,
+				13A07EF32260ABCD008BF595 /* Swift002_FunctionAndClosures.swift */,
+				13A07EF02260ABCD008BF595 /* Swift003_ObjectsAndClasses.swift */,
+				13A07EEE2260ABCD008BF595 /* Swift004_EunmsAndStructures.swift */,
+				13A07EF22260ABCD008BF595 /* Swift005_ProtocolsAndExtensions.swift */,
+				13A07EEF2260ABCD008BF595 /* Swift006_ErrorHanding.swift */,
+				13A07EF12260ABCD008BF595 /* Swift007_Generics.swift */,
 			);
 			path = Wellcome;
 			sourceTree = "<group>";
@@ -168,32 +96,6 @@
 		13A07E952260A8D5008BF595 /* LanguageGuid */ = {
 			isa = PBXGroup;
 			children = (
-				13A07EB92260A919008BF595 /* Siwft03_StringsAndCharacters.swift */,
-				13A07EA62260A918008BF595 /* Swift01_Basics.swift */,
-				13A07EB02260A918008BF595 /* Swift02_BasicOperators.swift */,
-				13A07EBD2260A919008BF595 /* Swift04_CollectionTypes.swift */,
-				13A07EBA2260A919008BF595 /* Swift05_ControlFlow.swift */,
-				13A07EB42260A919008BF595 /* Swift06_Functions.swift */,
-				13A07EA82260A918008BF595 /* Swift07_Closures.swift */,
-				13A07EB32260A919008BF595 /* Swift08_Enumerations.swift */,
-				13A07EAD2260A918008BF595 /* Swift09_ClassesAndStrucures.swift */,
-				13A07EA52260A918008BF595 /* Swift10_Properties.swift */,
-				13A07EB52260A919008BF595 /* Swift11_Methods.swift */,
-				13A07EAC2260A918008BF595 /* Swift12_Subscripts.swift */,
-				13A07EA92260A918008BF595 /* Swift13_Inheritance.swift */,
-				13A07EAE2260A918008BF595 /* Swift14_Initalization.swift */,
-				13A07EB62260A919008BF595 /* Swift15_Deinitialization.swift */,
-				13A07EB82260A919008BF595 /* Swift16_OptionalChaining.swift */,
-				13A07EAA2260A918008BF595 /* Swift17_ErrorHandling.swift */,
-				13A07EBC2260A919008BF595 /* Swift18_TypeCasting.swift */,
-				13A07EBE2260A919008BF595 /* Swift19_NestedTypes.swift */,
-				13A07EAF2260A918008BF595 /* Swift20_Extensions.swift */,
-				13A07EAB2260A918008BF595 /* Swift21_Protocols.swift */,
-				13A07EB22260A918008BF595 /* Swift22_Generics.swift */,
-				13A07EB72260A919008BF595 /* Swift23_AutomaticReferenceCounting.swift */,
-				13A07EB12260A918008BF595 /* Swift24_MemorySafety.swift */,
-				13A07EBB2260A919008BF595 /* Swift25_AccessControl.swift */,
-				13A07EA72260A918008BF595 /* Swift26_AdvancedOperators.swift */,
 			);
 			path = LanguageGuid;
 			sourceTree = "<group>";
@@ -201,16 +103,6 @@
 		13A07E962260A8E5008BF595 /* LanguageReference */ = {
 			isa = PBXGroup;
 			children = (
-				13A07EDB2260A92C008BF595 /* Swift01_About.swift */,
-				13A07ED92260A92C008BF595 /* Swift02_LexicalStructure.swift */,
-				13A07EE02260A92C008BF595 /* Swift03_Types.swift */,
-				13A07EDE2260A92C008BF595 /* Swift04_Exressions.swift */,
-				13A07EDC2260A92C008BF595 /* Swift05_Statements.swift */,
-				13A07EDD2260A92C008BF595 /* Swift06_Declarations.swift */,
-				13A07EE12260A92C008BF595 /* Swift07_Attributes.swift */,
-				13A07EDA2260A92C008BF595 /* Swift08_Patterns.swift */,
-				13A07EDF2260A92C008BF595 /* Swift09_GenericParametersAndArguments.swift */,
-				13A07EE22260A92C008BF595 /* Swift10_SummaryOfGrammar.swift */,
 			);
 			path = LanguageReference;
 			sourceTree = "<group>";
@@ -272,50 +164,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13A07EEC2260A92C008BF595 /* Swift10_SummaryOfGrammar.swift in Sources */,
-				13A07ED82260A919008BF595 /* Swift19_NestedTypes.swift in Sources */,
-				13A07EC52260A919008BF595 /* Swift21_Protocols.swift in Sources */,
-				13A07EC22260A919008BF595 /* Swift07_Closures.swift in Sources */,
-				13A07ECA2260A919008BF595 /* Swift02_BasicOperators.swift in Sources */,
-				13A07EE92260A92C008BF595 /* Swift09_GenericParametersAndArguments.swift in Sources */,
-				13A07EE72260A92C008BF595 /* Swift06_Declarations.swift in Sources */,
-				13A07ECF2260A919008BF595 /* Swift11_Methods.swift in Sources */,
-				13A07EC42260A919008BF595 /* Swift17_ErrorHandling.swift in Sources */,
-				13A07EE42260A92C008BF595 /* Swift08_Patterns.swift in Sources */,
-				13A07ED32260A919008BF595 /* Siwft03_StringsAndCharacters.swift in Sources */,
-				13A07EBF2260A919008BF595 /* Swift10_Properties.swift in Sources */,
-				13A07EE52260A92C008BF595 /* Swift01_About.swift in Sources */,
-				13A07EC62260A919008BF595 /* Swift12_Subscripts.swift in Sources */,
-				13A07EC32260A919008BF595 /* Swift13_Inheritance.swift in Sources */,
+				13A07EF52260ABCD008BF595 /* Swift004_EunmsAndStructures.swift in Sources */,
+				13A07EF92260ABCD008BF595 /* Swift005_ProtocolsAndExtensions.swift in Sources */,
+				13A07EF72260ABCD008BF595 /* Swift003_ObjectsAndClasses.swift in Sources */,
 				13A07E8E2260A8AB008BF595 /* main.swift in Sources */,
-				13A07ED42260A919008BF595 /* Swift05_ControlFlow.swift in Sources */,
-				13A07EEA2260A92C008BF595 /* Swift03_Types.swift in Sources */,
-				13A07EA12260A902008BF595 /* Swift003_ObjectsAndClasses.swift in Sources */,
-				13A07ECC2260A919008BF595 /* Swift22_Generics.swift in Sources */,
-				13A07EEB2260A92C008BF595 /* Swift07_Attributes.swift in Sources */,
-				13A07EC02260A919008BF595 /* Swift01_Basics.swift in Sources */,
-				13A07ED02260A919008BF595 /* Swift15_Deinitialization.swift in Sources */,
-				13A07ED72260A919008BF595 /* Swift04_CollectionTypes.swift in Sources */,
-				13A07E9F2260A902008BF595 /* Swift001_SimpleValues.swift in Sources */,
-				13A07EE62260A92C008BF595 /* Swift05_Statements.swift in Sources */,
-				13A07ED52260A919008BF595 /* Swift25_AccessControl.swift in Sources */,
-				13A07EE32260A92C008BF595 /* Swift02_LexicalStructure.swift in Sources */,
-				13A07EC72260A919008BF595 /* Swift09_ClassesAndStrucures.swift in Sources */,
-				13A07ECE2260A919008BF595 /* Swift06_Functions.swift in Sources */,
-				13A07ED12260A919008BF595 /* Swift23_AutomaticReferenceCounting.swift in Sources */,
-				13A07ED62260A919008BF595 /* Swift18_TypeCasting.swift in Sources */,
-				13A07ECD2260A919008BF595 /* Swift08_Enumerations.swift in Sources */,
-				13A07EA22260A902008BF595 /* Swift007_Generics.swift in Sources */,
-				13A07EE82260A92C008BF595 /* Swift04_Exressions.swift in Sources */,
-				13A07EA42260A902008BF595 /* Swift002_FunctionAndClosures.swift in Sources */,
-				13A07E9E2260A902008BF595 /* Swift005_ProtocolsAndExtensions.swift in Sources */,
-				13A07EC12260A919008BF595 /* Swift26_AdvancedOperators.swift in Sources */,
-				13A07ECB2260A919008BF595 /* Swift24_MemorySafety.swift in Sources */,
-				13A07ED22260A919008BF595 /* Swift16_OptionalChaining.swift in Sources */,
-				13A07EA02260A902008BF595 /* Swift006_ErrorHanding.swift in Sources */,
-				13A07EC92260A919008BF595 /* Swift20_Extensions.swift in Sources */,
-				13A07EC82260A919008BF595 /* Swift14_Initalization.swift in Sources */,
-				13A07EA32260A902008BF595 /* Swift004_EunmsAndStructures.swift in Sources */,
+				13A07EFA2260ABCD008BF595 /* Swift002_FunctionAndClosures.swift in Sources */,
+				13A07EF82260ABCD008BF595 /* Swift007_Generics.swift in Sources */,
+				13A07EF42260ABCD008BF595 /* Swift001_SimpleValues.swift in Sources */,
+				13A07EF62260ABCD008BF595 /* Swift006_ErrorHanding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
